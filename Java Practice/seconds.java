@@ -1,12 +1,13 @@
+import java.util.Scanner;
+
 public class seconds {
     public static void main(String[] args) {
         
-      int s3=86399/3600;
-      int s1=86399/60;
-      int s2=86399/60;
-      System.out.print(s3);
-      System.out.print(s1);
-      System.out.print(s2);
+    Scanner sc=new Scanner(System.in);
+    
+    System.out.println("enter the integer number:");
+    int number=sc.nextInt();
+    System.out.println("the integer number is "+number);
 
 
     }
