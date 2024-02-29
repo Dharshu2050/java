@@ -1,6 +1,4 @@
-/**
- * b
- 
+
 public class b {
 
     public static void main(String[] args) {
@@ -16,9 +14,8 @@ public class b {
         System.out.println(""+ch+2);
     }
 }
-*/
-/**
- * b
+
+
  
 public class b {
 
@@ -28,8 +25,5 @@ public class b {
         System.out.print("VCET");
         System.out.print("VCET");
     }
-}*/
+}
 
-/**
- * b
- */
