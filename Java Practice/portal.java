@@ -9,6 +9,8 @@ public class portal {
 	    int a=10;
 	   // System.out.System.out.println(++a++);
 
+	   
+
        
 
 }
