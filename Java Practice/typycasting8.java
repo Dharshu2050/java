@@ -10,6 +10,8 @@ public class typycasting8 {
        String s=String.valueOf(a);
 
         System.out.println(s);
+
+        //o/p: a=89 char=G
         
     }
 }
