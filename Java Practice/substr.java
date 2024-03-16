@@ -13,6 +13,8 @@ public class substr {
         String s=sc.nextLine();
         String str=s.substring(a, b);
         System.out.println(str);
+
+        //o/p:ring h
         
     }
 }
